@@ -1,0 +1,2 @@
+- name: Task1
+  ansible.builtin.yum_repository: {}
