@@ -1,6 +1,4 @@
-dependencies:
-  - roleName: geerlingguy.java
-    version: 2.3.1
+dependencies: []
 galaxy_info:
   role_name: testAnsibleRolePublish1
   author: studioAnsible
