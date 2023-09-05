@@ -1,6 +1,5 @@
-dependencies: []
 galaxy_info:
-  role_name: testAnsibleRolePublish1
+  role_name: testansiblerolepublish1
   author: studioAnsible
   description: test role publish
   company: AS
@@ -9,6 +8,9 @@ galaxy_info:
   min_ansible_version: 0.0.1
   min_ansible_container_version: '0.1'
   github_branch: master
+  galaxy_tags:
+    - tag1
+    - tag2
   platforms:
     - name: Windows
       versions:
@@ -16,6 +18,4 @@ galaxy_info:
     - name: Ubuntu
       versions:
         - all
-  galaxy_tags:
-    - tag1
-    - tag2
+dependencies: []
